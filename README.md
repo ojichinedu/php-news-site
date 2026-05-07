@@ -1,4 +1,4 @@
-[09:03, 07/05/2026] +234 905 346 5813: # PHP News Site
+# PHP News Site
 
 A simple PHP and MySQL news website built without frameworks.
 
